@@ -1,0 +1,1 @@
+# Thermal Design Document\n## Overview\nThis document details the design of the Thermal subsystem for DemoSat-1.\n## Components\n- MLI blankets\n## Next Steps\n- To be expanded during detailed design phase.

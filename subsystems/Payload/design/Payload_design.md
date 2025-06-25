@@ -1,0 +1,1 @@
+# Payload Design Document\n## Overview\nThis document details the design of the Payload subsystem for DemoSat-1.\n## Components\n- Bosch BME280, Teledyne radiation detector\n## Next Steps\n- To be expanded during detailed design phase.

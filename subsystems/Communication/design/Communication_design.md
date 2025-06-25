@@ -1,0 +1,1 @@
+# Communication Design Document\n## Overview\nThis document details the design of the Communication subsystem for DemoSat-1.\n## Components\n- ISIS UHF transceiver\n## Next Steps\n- To be expanded during detailed design phase.

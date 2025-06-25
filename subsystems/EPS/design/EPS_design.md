@@ -1,0 +1,1 @@
+# EPS Design Document\n## Overview\nThis document details the design of the Electrical Power System (EPS) for DemoSat-1.\n## Components\n- GomSpace NanoPower\n## Next Steps\n- To be expanded during detailed design phase.

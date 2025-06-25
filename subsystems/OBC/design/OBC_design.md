@@ -1,0 +1,1 @@
+# OBC Design Document\n## Overview\nThis document details the design of the On-Board Computer (OBC) for DemoSat-1.\n## Components\n- CubeCore (ARM Cortex-M4)\n## Next Steps\n- To be expanded during detailed design phase.

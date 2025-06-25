@@ -1,4 +1,59 @@
+# Ignore VS Code settings and temporary files
+.vscode/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore build artifacts and logs
 *.log
 *.tmp
-.vscode/
-__pycache__
+*.out
+*.bak
+build/
+dist/
+
+# Ignore Python-related files (if using Python for simulations or ground station software)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Ignore MATLAB files (if using MATLAB for simulations)
+*.mat
+*.fig
+*.asv
+
+# Ignore STM32CubeIDE files (if developing OBC software)
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.map
+*.ld
+
+# Ignore Git-specific files
+.gitignore
+*.git*
+
+# Ignore large binary files or temporary data (e.g., test result exports)
+*.zip
+*.rar
+*.tar.gz
+data/
+
+# Ignore personal or sensitive files
+*.key
+*.pem
+*.crt
+
+# Ensure Markdown source files are not ignored
+!*.md

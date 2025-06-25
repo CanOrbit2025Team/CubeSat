@@ -1,0 +1,1 @@
+# ADCS Design Document\n## Overview\nThis document details the design of the Attitude Determination and Control System (ADCS) for DemoSat-1.\n## Components\n- CubeSpace CubeSense (magnetorquers, sensors)\n## Next Steps\n- To be expanded during detailed design phase.
