@@ -1,7 +1,7 @@
-# CanOrbitCubeSat Project
+# CanOrbitCubeSat Project:CanOrbitCubeSat-1
 # CubeSat Project Repository
 
-This repository contains documentation for the CanOrbit2025-1 CubeSat project.
+This repository contains documentation for the CanOrbitCubeSat-1 CubeSat project.
 
 ## Folder Structure
 - `docs/concept_and_mission_definition/`: Mission Concept, SRS, RRTA
