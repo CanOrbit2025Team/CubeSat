@@ -1,7 +1,7 @@
 # ADCS Test Results\n## Overview\nThis document will record test results for the ADCS subsystem.\n## Next Steps\n- To be updated post-testing.
 # ADCS Test Results
 ## Overview
-This document records the test results for the Attitude Determination and Control System (ADCS) of the CanOrbit2025-1 3U CubeSat, validating ±0.5° pointing accuracy and 50s stabilization time.
+This document records the test results for the Attitude Determination and Control System (ADCS) of the CanOrbitCubeSat-1 3U CubeSat, validating ±0.5° pointing accuracy and 50s stabilization time.
 
 ## Test Results
 - **Date**: [To be filled post-September 2025]

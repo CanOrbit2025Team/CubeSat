@@ -1,7 +1,7 @@
 # EPS Test Plan\n## Overview\nThis document details the test plan for the EPS subsystem.\n## Next Steps\n- To be developed during testing phase.
 # EPS Test Plan
 ## Overview
-This document details the test plan for the Electrical Power System (EPS) of the CanOrbit2025-1 3U CubeSat, ensuring 10 W RMS power generation and 20 Wh battery capacity.
+This document details the test plan for the Electrical Power System (EPS) of the CanOrbitCubeSat-1 3U CubeSat, ensuring 10 W RMS power generation and 20 Wh battery capacity.
 
 ## Test Objectives
 - Verify power generation ≥ 10 W RMS.

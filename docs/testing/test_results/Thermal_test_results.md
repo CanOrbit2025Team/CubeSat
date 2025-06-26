@@ -1,7 +1,7 @@
 # Thermal Test Results\n## Overview\nThis document will record test results for the Thermal subsystem.\n## Next Steps\n- To be updated post-testing.
 # Thermal Test Results
 ## Overview
-This document records the test results for the Thermal subsystem of the CanOrbit2025-1 3U CubeSat, validating a temperature range of -20°C to +50°C with MLI blankets.
+This document records the test results for the Thermal subsystem of the CanOrbitCubeSat-1 3U CubeSat, validating a temperature range of -20°C to +50°C with MLI blankets.
 
 ## Test Results
 - **Date**: [To be filled post-September 2025]

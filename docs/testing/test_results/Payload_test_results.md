@@ -1,7 +1,7 @@
 # Payload Test Results\n## Overview\nThis document will record test results for the Payload subsystem.\n## Next Steps\n- To be updated post-testing.
 # Payload Test Results
 ## Overview
-This document records the test results for the Payload subsystem of the CanOrbit2025-1 3U CubeSat, validating temperature (-50°C to +100°C) and radiation (0-50 rad/day) measurements.
+This document records the test results for the Payload subsystem of the CanOrbitCubeSat-1 3U CubeSat, validating temperature (-50°C to +100°C) and radiation (0-50 rad/day) measurements.
 
 ## Test Results
 - **Date**: [To be filled post-September 2025]

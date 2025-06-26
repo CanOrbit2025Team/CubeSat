@@ -71,4 +71,4 @@ This document outlines the integration plan for the 3U CubeSat, detailing the pr
 ## Revision History
 | Version | Date             | Changes             |
 |---------|------------------|---------------------|
-| 1.0     | 2025-06-19 14:06 | Initial placeholder |# Integration Plan Document\n## Overview\nThis document outlines the integration plan for DemoSat-1 subsystems.\n## Next Steps\n- To be developed during integration phase.
+| 1.0     | 2025-06-19 14:06 | Initial placeholder |# Integration Plan Document\n## Overview\nThis document outlines the integration plan for CanOrbitCubeSat-1 subsystems.\n## Next Steps\n- To be developed during integration phase.

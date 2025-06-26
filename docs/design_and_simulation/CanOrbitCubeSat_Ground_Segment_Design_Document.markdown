@@ -1,9 +1,9 @@
-# DemoSat-1 Ground Segment Design Document
+# CanOrbitCubeSat-1 Ground Segment Design Document
 
 ## 1. Introduction
-**Purpose**: This document details the design of the DemoSat-1 ground segment, including hardware and software for communication with the 3U CubeSat.  
+**Purpose**: This document details the design of the CanOrbitCubeSat-1 ground segment, including hardware and software for communication with the 3U CubeSat.  
 **Scope**: Covers ground station hardware (antennas, receivers), software (data processing, control), and operational procedures.  
-**Reference Documents**: DemoSat-1 Mission Concept Document (MCD), System Requirements Specification (SRS), Preliminary Design Document (PDD).  
+**Reference Documents**: CanOrbit2025-1 Mission Concept Document (MCD), System Requirements Specification (SRS), Preliminary Design Document (PDD).  
 **Mission Overview**: 3U CubeSat in 500 km LEO, downlinking 8 MB/day of environmental data via UHF (9.6 kbps).
 
 ## 2. Ground Segment Overview

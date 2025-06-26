@@ -2,7 +2,7 @@
 
 # Communication Test Results
 ## Overview
-This document records the test results for the Communication subsystem of the CanOrbit2025-1 3U CubeSat, validating a downlink of 8 MB/day at 9.6 kbps via UHF.
+This document records the test results for the Communication subsystem of the CanOrbitCubeSat-1 3U CubeSat, validating a downlink of 8 MB/day at 9.6 kbps via UHF.
 
 ## Test Results
 - **Date**: [To be filled post-September 2025]

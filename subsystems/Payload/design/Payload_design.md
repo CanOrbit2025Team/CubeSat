@@ -1,7 +1,7 @@
-# Payload Design Document\n## Overview\nThis document details the design of the Payload subsystem for Can   CanOrbit2025-1.\n## Components\n- Bosch BME280, Teledyne radiation detector\n## Next Steps\n- To be expanded during detailed design phase.
+# Payload Design Document\n## Overview\nThis document details the design of the Payload subsystem for CanOrbitCubeSat-1.\n## Components\n- Bosch BME280, Teledyne radiation detector\n## Next Steps\n- To be expanded during detailed design phase.
 # Payload Design Document
 ## Overview
-This document details the preliminary design of the Payload subsystem for the CanOrbit2025-1 3U CubeSat, responsible for collecting temperature (-50°C to +100°C) and radiation (0-50 rad/day) data in a 500 km sun-synchronous LEO.
+This document details the preliminary design of the Payload subsystem for the CanOrbitCubeSat-1 3U CubeSat, responsible for collecting temperature (-50°C to +100°C) and radiation (0-50 rad/day) data in a 500 km sun-synchronous LEO.
 
 ## Components
 - **Primary Components**:

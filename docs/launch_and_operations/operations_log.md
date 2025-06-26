@@ -1,8 +1,8 @@
-# Operations Log Document\n## Overview\nThis document will record on-orbit operations for CanOrbitSat-1.\n## Next Steps\n- To be updated post-launch.
-## CanOrbit2025-1 Operations Log Document
+# Operations Log Document\n## Overview\nThis document will record on-orbit operations for CanOrbitCubeSat-1.\n## Next Steps\n- To be updated post-launch.
+## CanOrbitCubeSat-1 Operations Log Document
 
 ## Overview
-This document records the on-orbit operations and data collection activities for the CanOrbit2025-1 3U CubeSat, tracking temperature, radiation, and downlink status in a 500 km sun-synchronous LEO.
+This document records the on-orbit operations and data collection activities for the CanOrbitCubeSat-1 3U CubeSat, tracking temperature, radiation, and downlink status in a 500 km sun-synchronous LEO.
 
 ## Operations Log
 - **Date**: [To be filled post-launch]

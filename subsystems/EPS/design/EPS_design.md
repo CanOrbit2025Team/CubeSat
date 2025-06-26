@@ -1,7 +1,7 @@
-# EPS Design Document\n## Overview\nThis document details the design of the Electrical Power System (EPS) for CanOrbit2025-1.\n## Components\n- GomSpace NanoPower\n## Next Steps\n- To be expanded during detailed design phase.
+# EPS Design Document\n## Overview\nThis document details the design of the Electrical Power System (EPS) for CanOrbitCubeSat-1.\n## Components\n- GomSpace NanoPower\n## Next Steps\n- To be expanded during detailed design phase.
 # EPS Design Document
 ## Overview
-This document details the preliminary design of the Electrical Power System (EPS) for the CanOrbit2025-1 3U CubeSat, providing 10 W RMS power generation and 20 Wh battery capacity in a 500 km sun-synchronous LEO.
+This document details the preliminary design of the Electrical Power System (EPS) for the CanOrbitCubeSat-1 3U CubeSat, providing 10 W RMS power generation and 20 Wh battery capacity in a 500 km sun-synchronous LEO.
 
 ## Components
 - **Primary Component**: GomSpace NanoPower

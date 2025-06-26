@@ -1,9 +1,9 @@
-# DemoSat-1 Software Design Document
+# CanOrbitCubeSat-1 Software Design Document
 
 ## 1. Introduction
-**Purpose**: This document details the software architecture for the DemoSat-1 On-Board Computer (OBC), specifying tasks, data flows, and error handling to meet mission requirements.  
+**Purpose**: This document details the software architecture for the CanOrbitCubeSat-1 On-Board Computer (OBC), specifying tasks, data flows, and error handling to meet mission requirements.  
 **Scope**: Covers OBC software running FreeRTOS on CubeCore (ARM Cortex-M4), managing Payload, ADCS, and Communication subsystems.  
-**Reference Documents**: DemoSat-1 Mission Concept Document (MCD), System Requirements Specification (SRS), Preliminary Design Document (PDD), Interface Control Document (ICD).  
+**Reference Documents**: CanOrbitCubeSat-1 Mission Concept Document (MCD), System Requirements Specification (SRS), Preliminary Design Document (PDD), Interface Control Document (ICD).  
 **Mission Overview**: 3U CubeSat in 500 km LEO, collecting and downlinking 8 MB/day of environmental data.
 
 ## 2. Software Overview

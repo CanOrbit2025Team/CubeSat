@@ -1,7 +1,7 @@
 # ADCS Test Plan\n## Overview\nThis document details the test plan for the ADCS subsystem.\n## Next Steps\n- To be developed during testing phase.
 # ADCS Test Plan
 ## Overview
-This document details the test plan for the Attitude Determination and Control System (ADCS) of the CanOrbit2025-1 3U CubeSat, ensuring ±0.5° pointing accuracy and 50s stabilization time in a 500 km LEO environment.
+This document details the test plan for the Attitude Determination and Control System (ADCS) of the CanOrbitCubeSat-1 3U CubeSat, ensuring ±0.5° pointing accuracy and 50s stabilization time in a 500 km LEO environment.
 
 ## Test Objectives
 - Verify pointing accuracy of ±0.5°.

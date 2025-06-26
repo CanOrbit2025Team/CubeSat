@@ -1,9 +1,9 @@
-# DemoSat-1 Interface Control Document (ICD)
+# CanOrbitCubeSat-1 Interface Control Document (ICD)
 
 ## 1. Introduction
-**Purpose**: This document specifies the mechanical, electrical, and software interfaces between DemoSat-1 subsystems to ensure compatibility and successful integration.  
+**Purpose**: This document specifies the mechanical, electrical, and software interfaces between CanOrbitCubeSat-1 subsystems to ensure compatibility and successful integration.  
 **Scope**: Covers interfaces for ADCS, Payload, Communication, Thermal, EPS, and OBC in the 3U CubeSat.  
-**Reference Documents**: DemoSat-1 Mission Concept Document (MCD), System Requirements Specification (SRS), Preliminary Design Document (PDD).  
+**Reference Documents**: CanOrbit2025-1 Mission Concept Document (MCD), System Requirements Specification (SRS), Preliminary Design Document (PDD).  
 **Mission Overview**: 3U CubeSat in 500 km LEO, collecting and downlinking environmental data (temperature, radiation).
 
 ## 2. System Overview

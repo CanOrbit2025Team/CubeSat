@@ -1,7 +1,7 @@
 # EPS Test Results\n## Overview\nThis document will record test results for the EPS subsystem.\n## Next Steps\n- To be updated post-testing.
 # EPS Test Results
 ## Overview
-This document records the test results for the Electrical Power System (EPS) of the CanOrbit2025-1 3U CubeSat, validating 10 W RMS power generation and 20 Wh battery capacity.
+This document records the test results for the Electrical Power System (EPS) of the CanOrbitCubeSat-1 3U CubeSat, validating 10 W RMS power generation and 20 Wh battery capacity.
 
 ## Test Results
 - **Date**: [To be filled post-September 2025]

@@ -1,7 +1,7 @@
 # Communication Test Plan\n## Overview\nThis document details the test plan for the Communication subsystem.\n## Next Steps\n- To be developed during testing phase.
 # Communication Test Plan
 ## Overview
-This document details the test plan for the Communication subsystem of the CanOrbit2025-1 3U CubeSat, ensuring a downlink of 8 MB/day at 9.6 kbps via UHF.
+This document details the test plan for the Communication subsystem of the CanOrbitCubeSat-1 3U CubeSat, ensuring a downlink of 8 MB/day at 9.6 kbps via UHF.
 
 ## Test Objectives
 - Verify downlink data rate of 9.6 kbps.

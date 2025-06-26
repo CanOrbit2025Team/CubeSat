@@ -1,7 +1,7 @@
 # OBC Test Plan\n## Overview\nThis document details the test plan for the OBC subsystem.\n## Next Steps\n- To be developed during testing phase.
 # OBC Test Plan
 ## Overview
-This document details the test plan for the On-Board Computer (OBC) of the CanOrbit2025-1 3U CubeSat, ensuring reliable data processing and subsystem control.
+This document details the test plan for the On-Board Computer (OBC) of the CanOrbitCubeSat-1 3U CubeSat, ensuring reliable data processing and subsystem control.
 
 ## Test Objectives
 - Verify processing speed ≥ 100 MIPS.

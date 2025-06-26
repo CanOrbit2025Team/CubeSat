@@ -1,8 +1,8 @@
-# DemoSat-1 Preliminary Design Review (PDR) Presentation
+# CanOrbitCubeSat-1 Preliminary Design Review (PDR) Presentation
 
 ## Slide 1: Title Slide
 **Content**:  
-- **Title**: DemoSat-1 Preliminary Design Review  
+- **Title**: CanOrbitCubeSat-1 Preliminary Design Review  
 - **Subtitle**: 3U CubeSat for Environmental Data Collection  
 - **Details**:  
   - Presented by: [Your Team Name]  
@@ -11,7 +11,7 @@
 - **Visual**: CubeSat rendering or mission graphic  
 
 **Speaker Notes**:  
-- Welcome stakeholders to the PDR for DemoSat-1.  
+- Welcome stakeholders to the PDR for CanOrbitCubeSat-1.  
 - Briefly introduce the team and the purpose: to review the preliminary design and seek approval to proceed to detailed design.  
 
 ---
@@ -48,7 +48,7 @@
 **Visual**: Orbit diagram or mission timeline  
 
 **Speaker Notes**:  
-- Recap DemoSat-1’s goals: primary science mission and educational demonstration.  
+- Recap CanOrbitCubeSat-1’s goals: primary science mission and educational demonstration.  
 - Emphasize alignment with stakeholder interests (e.g., science data, student training).  
 
 ---
@@ -291,7 +291,7 @@
 ## Slide 15: Q&A
 **Content**:  
 - **Title**: Questions & Discussion  
-- **Text**: Thank you for attending the DemoSat-1 PDR!  
+- **Text**: Thank you for attending the CanOrbitCubeSat-1 PDR!  
 - **Visual**: CubeSat graphic or team photo  
 
 **Speaker Notes**:  

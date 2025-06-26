@@ -1,7 +1,7 @@
-# ADCS Design Document\n## Overview\nThis document details the design of the Attitude Determination and Control System (ADCS) for DemoSat-1.\n## Components\n- CubeSpace CubeSense (magnetorquers, sensors)\n## Next Steps\n- To be expanded during detailed design phase.
+# ADCS Design Document\n## Overview\nThis document details the design of the Attitude Determination and Control System (ADCS) for CanOrbitCubeSat-1.\n## Components\n- CubeSpace CubeSense (magnetorquers, sensors)\n## Next Steps\n- To be expanded during detailed design phase.
 # ADCS Design Document
 ## Overview
-This document details the preliminary design of the Attitude Determination and Control System (ADCS) for the CanOrbit2025-1 3U CubeSat, ensuring ±0.5° pointing accuracy and 50s stabilization time in a 500 km sun-synchronous LEO.
+This document details the preliminary design of the Attitude Determination and Control System (ADCS) for the CanOrbitCubeSat-1 3U CubeSat, ensuring ±0.5° pointing accuracy and 50s stabilization time in a 500 km sun-synchronous LEO.
 
 ## Components
 - **Primary Component**: CubeSpace CubeSense

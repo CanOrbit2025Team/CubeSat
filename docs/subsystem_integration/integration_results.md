@@ -32,4 +32,4 @@ This document records the integration test results for the 3U CubeSat, documenti
 ## Revision History
 | Version | Date             | Changes             |
 |---------|------------------|---------------------|
-| 1.0     | 2025-06-19 14:06 | Initial placeholder |# Integration Results Document\n## Overview\nThis document will record integration test results for CanOrbit2025-1.\n## Next Steps\n- To be updated post-integration.
+| 1.0     | 2025-06-19 14:06 | Initial placeholder |# Integration Results Document\n## Overview\nThis document will record integration test results for CanOrbitCubeSat-1.\n## Next Steps\n- To be updated post-integration.

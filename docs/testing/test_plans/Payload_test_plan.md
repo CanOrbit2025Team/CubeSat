@@ -1,7 +1,7 @@
 # Payload Test Plan\n## Overview\nThis document details the test plan for the Payload subsystem.\n## Next Steps\n- To be developed during testing phase.
 # Payload Test Plan
 ## Overview
-This document details the test plan for the Payload subsystem of the CanOrbit2025-1 3U CubeSat, ensuring accurate measurement of temperature (-50°C to +100°C) and radiation (0-50 rad/day).
+This document details the test plan for the Payload subsystem of the CanOrbitCubeSat-1 3U CubeSat, ensuring accurate measurement of temperature (-50°C to +100°C) and radiation (0-50 rad/day).
 
 ## Test Objectives
 - Verify temperature accuracy within 0.01°C.

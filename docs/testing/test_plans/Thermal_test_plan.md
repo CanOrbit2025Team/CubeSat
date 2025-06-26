@@ -1,6 +1,6 @@
 # Thermal Test Plan
 ## Overview
-This document details the test plan for the Thermal subsystem of the CanOrbit2025-1 3U CubeSat, ensuring a temperature range of -20°C to +50°C with MLI blankets.
+This document details the test plan for the Thermal subsystem of the CanOrbitCubeSat-1 3U CubeSat, ensuring a temperature range of -20°C to +50°C with MLI blankets.
 
 ## Test Objectives
 - Verify temperature range of -20°C to +50°C.

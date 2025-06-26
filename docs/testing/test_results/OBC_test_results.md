@@ -1,7 +1,7 @@
 # OBC Test Results\n## Overview\nThis document will record test results for the OBC subsystem.\n## Next Steps\n- To be updated post-testing.
 # OBC Test Results
 ## Overview
-This document records the test results for the On-Board Computer (OBC) of the CanOrbit2025-1 3U CubeSat, validating 1 MB storage capacity and FreeRTOS task scheduling.
+This document records the test results for the On-Board Computer (OBC) of the CanOrbitCubeSat-1 3U CubeSat, validating 1 MB storage capacity and FreeRTOS task scheduling.
 
 ## Test Results
 - **Date**: [To be filled post-September 2025]

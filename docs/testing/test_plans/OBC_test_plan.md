@@ -1,7 +1,7 @@
 # OBC Test Plan\n## Overview\nThis document details the test plan for the OBC subsystem.\n## Next Steps\n- To be developed during testing phase.
 # OBC Test Plan
 ## Overview
-This document details the test plan for the On-Board Computer (OBC) of the CanOrbit2025-1 3U CubeSat, ensuring data processing, storage, and interface management with FreeRTOS.
+This document details the test plan for the On-Board Computer (OBC) of the CanOrbitCubeSat-1 3U CubeSat, ensuring data processing, storage, and interface management with FreeRTOS.
 
 ## Test Objectives
 - Verify 1 MB storage capacity.

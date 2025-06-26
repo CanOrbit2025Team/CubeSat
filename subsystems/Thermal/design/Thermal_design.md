@@ -1,7 +1,7 @@
-# Thermal Design Document\n## Overview\nThis document details the design of the Thermal subsystem for CanOrbit2025-1.\n## Components\n- MLI blankets\n## Next Steps\n- To be expanded during detailed design phase.
+# Thermal Design Document\n## Overview\nThis document details the design of the Thermal subsystem for CanOrbitCubeSat-1.\n## Components\n- MLI blankets\n## Next Steps\n- To be expanded during detailed design phase.
 # Thermal Design Document
 ## Overview
-This document details the preliminary design of the Thermal subsystem for the CanOrbit2025-1 3U CubeSat, ensuring a temperature range of -20°C to +50°C in a 500 km sun-synchronous LEO using MLI blankets.
+This document details the preliminary design of the Thermal subsystem for the CanOrbitCubeSat-1 3U CubeSat, ensuring a temperature range of -20°C to +50°C in a 500 km sun-synchronous LEO using MLI blankets.
 
 ## Components
 - **Primary Component**: Multi-Layer Insulation (MLI) blankets

@@ -1,7 +1,7 @@
-# OBC Design Document\n## Overview\nThis document details the design of the On-Board Computer (OBC) for CanOrbit2025-1.\n## Components\n- CubeCore (ARM Cortex-M4)\n## Next Steps\n- To be expanded during detailed design phase.
+# OBC Design Document\n## Overview\nThis document details the design of the On-Board Computer (OBC) for CanOrbitCubeSat-1.\n## Components\n- CubeCore (ARM Cortex-M4)\n## Next Steps\n- To be expanded during detailed design phase.
 # OBC Design Document
 ## Overview
-This document details the preliminary design of the On-Board Computer (OBC) for the CanOrbit2025-1 3U CubeSat, managing data processing and subsystem control in a 500 km sun-synchronous LEO.
+This document details the preliminary design of the On-Board Computer (OBC) for the  3U CubeSat, managing data processing and subsystem control in a 500 km sun-synchronous LEO.
 
 ## Components
 - **Primary Component**: CubeCore

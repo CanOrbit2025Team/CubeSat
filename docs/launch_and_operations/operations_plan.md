@@ -1,8 +1,8 @@
-# Operations Plan Document\n## Overview\nThis document outlines the operational procedures for CanOrbit2025-1.\n## Next Steps\n- To be developed prior to launch.
-# CanOrbit2025-1 Operations Plan Document
+# Operations Plan Document\n## Overview\nThis document outlines the operational procedures for CanOrbitCubeSat-1.\n## Next Steps\n- To be developed prior to launch.
+# CanOrbitCubeSat-1 Operations Plan Document
 
 ## Overview
-This document outlines the operations plan for the CanOrbit2025-1 3U CubeSat, detailing the launch process and on-orbit activities for temperature and radiation data collection in a 500 km sun-synchronous LEO, with an 8 MB/day downlink.
+This document outlines the operations plan for the CanOrbitCubeSat-1 3U CubeSat, detailing the launch process and on-orbit activities for temperature and radiation data collection in a 500 km sun-synchronous LEO, with an 8 MB/day downlink.
 
 ## Launch Strategy
 - **Launch Provider**: [To be selected, e.g., SpaceX Falcon 9]
